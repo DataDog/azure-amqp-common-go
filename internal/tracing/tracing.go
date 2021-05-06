@@ -6,7 +6,7 @@ import (
 
 	"github.com/devigned/tab"
 
-	"github.com/Azure/azure-amqp-common-go/v3/internal"
+	"github.com/DataDog/azure-amqp-common-go/internal"
 )
 
 // StartSpanFromContext starts a span given a context and applies common library information
